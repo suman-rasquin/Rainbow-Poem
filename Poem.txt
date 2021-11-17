@@ -1,0 +1,9 @@
+The Rainbow
+
+red
+blue
+green
+orange
+violet
+indigo
+These are the colours of the rainbow!
