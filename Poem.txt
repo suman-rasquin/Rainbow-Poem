@@ -7,4 +7,5 @@ orange
 violet
 indigo
 These are the colours of the rainbow!
+Yellow
 Vibgyor colors
